@@ -1,0 +1,7 @@
+Stage 5 physics/play-mode validation
+PASS Loaded level waits for Start
+PASS Flag raised by real controller trigger
+FAILED: System.Exception: Flag does not change wealth
+  at Stage5PlayChecks.Require (System.Boolean condition, System.String message) [0x00009] in D:\Обучение\Колледж\Unity\TestButcher\TestButcher\Assets\_Project\Editor\Stage5PlayChecks.cs:85 
+  at Stage5PlayChecks+<CheckAll>d__15.MoveNext () [0x0021f] in D:\Обучение\Колледж\Unity\TestButcher\TestButcher\Assets\_Project\Editor\Stage5PlayChecks.cs:114 
+  at Stage5PlayChecks.Tick () [0x00034] in D:\Обучение\Колледж\Unity\TestButcher\TestButcher\Assets\_Project\Editor\Stage5PlayChecks.cs:70 

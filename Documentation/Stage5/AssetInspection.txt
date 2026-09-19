@@ -1,0 +1,217 @@
+Bag_Billet: bounds=Center: (-0.02, 0.32, -0.01), Extents: (0.28, 0.36, 0.29) vertices=346 bones=0 submeshes=1
+Bench: bounds=Center: (-0.03, 0.32, 0.00), Extents: (0.64, 0.32, 0.19) vertices=847 bones=0 submeshes=1
+body_base: bounds=Center: (0.00, -0.41, -126.74), Extents: (62.71, 9.07, 14.68) vertices=3336 bones=78 submeshes=1
+Bottle.001: bounds=Center: (0.00, 0.40, 0.00), Extents: (0.30, 0.41, 0.30) vertices=5284 bones=0 submeshes=1
+Diplome: bounds=Center: (0.00, 0.00, 0.00), Extents: (0.20, 0.05, 0.05) vertices=214 bones=0 submeshes=1
+Door.001: bounds=Center: (0.00, 0.97, 0.12), Extents: (0.79, 0.97, 0.14) vertices=1550 bones=0 submeshes=1
+Door_Descent_00: bounds=Center: (-0.37, 0.63, 0.01), Extents: (0.48, 0.62, 0.09) vertices=1344 bones=0 submeshes=1
+Door_Descent_01: bounds=Center: (0.37, 0.63, 0.01), Extents: (0.49, 0.62, 0.09) vertices=1344 bones=0 submeshes=1
+Door_Descent_02: bounds=Center: (-0.01, 0.70, 0.02), Extents: (1.07, 0.70, 0.04) vertices=96 bones=0 submeshes=1
+Door_Million_00: bounds=Center: (0.54, 0.86, 0.00), Extents: (0.53, 0.87, 0.02) vertices=6103 bones=0 submeshes=1
+Door_Poor_000: bounds=Center: (0.00, 0.70, 0.00), Extents: (1.07, 0.70, 0.04) vertices=78 bones=0 submeshes=1
+Door_Poor_001: bounds=Center: (0.42, 0.64, 0.03), Extents: (0.49, 0.64, 0.05) vertices=778 bones=0 submeshes=1
+Door_Poor_002: bounds=Center: (-0.40, 0.64, 0.03), Extents: (0.50, 0.64, 0.05) vertices=813 bones=0 submeshes=1
+Door_Rich_00: bounds=Center: (-0.01, 0.97, 0.12), Extents: (1.07, 0.96, 0.17) vertices=1248 bones=0 submeshes=1
+Door_Rich_01: bounds=Center: (-0.44, 0.68, 0.00), Extents: (0.46, 0.69, 0.07) vertices=888 bones=0 submeshes=1
+Door_Rich_02: bounds=Center: (0.44, 0.68, 0.00), Extents: (0.46, 0.69, 0.07) vertices=886 bones=0 submeshes=1
+Flag: bounds=Center: (-0.66, 2.70, -0.02), Extents: (1.18, 2.69, 0.52) vertices=208 bones=0 submeshes=1
+hair_vigile: bounds=Center: (0.00, 1.61, -126.10), Extents: (67.71, 8.41, 14.45) vertices=3336 bones=78 submeshes=1
+Hat_School: bounds=Center: (0.00, 0.05, 0.02), Extents: (0.21, 0.09, 0.22) vertices=164 bones=0 submeshes=1
+Head_Male: bounds=Center: (25.24, -5.71, -125.34), Extents: (67.71, 9.51, 17.19) vertices=4653 bones=78 submeshes=1
+pants_Vigile: bounds=Center: (0.00, 2.89, -38.26), Extents: (13.81, 13.46, 38.36) vertices=2721 bones=78 submeshes=1
+Plante_Descent: bounds=Center: (0.06, 2.00, -2.03), Extents: (0.06, 2.00, 2.03) vertices=40 bones=0 submeshes=1
+Plante_Poor: bounds=Center: (0.06, 2.00, -2.03), Extents: (0.06, 2.00, 2.03) vertices=24 bones=0 submeshes=1
+Plante_Rich: bounds=Center: (0.02, 2.00, -2.03), Extents: (0.10, 2.00, 2.03) vertices=208 bones=0 submeshes=1
+shirt_Vigile: bounds=Center: (-16.71, 0.78, -77.69), Extents: (148.89, 38.98, 91.43) vertices=3323 bones=78 submeshes=1
+Trash.000: bounds=Center: (0.01, 0.21, 0.00), Extents: (0.17, 0.22, 0.17) vertices=300 bones=0 submeshes=1
+Trash.001: bounds=Center: (0.00, 0.22, 0.00), Extents: (0.18, 0.22, 0.17) vertices=300 bones=0 submeshes=1
+FBX Assets/ThirdParty/RunRich/Visual/Mesh/LowPoly\bills.fbx
+  bills
+FBX Assets/ThirdParty/RunRich/Visual/Mesh/LowPoly\bottle.fbx
+  bottle
+FBX Assets/ThirdParty/RunRich/Visual/Mesh/LowPoly\dollar.fbx
+  dollar
+FBX Assets/ThirdParty/RunRich/Visual/Mesh/LowPoly\Door_Million.fbx
+  Door_Million
+  Door_Million_00
+  Door_Million_00.001
+  Door_Million_01
+  EndLevel_Blue
+FBX Assets/ThirdParty/RunRich/Visual/Mesh/LowPoly\photographer.fbx
+  photographer
+  Armature
+  mixamorig:Hips
+  mixamorig:LeftUpLeg
+  mixamorig:LeftLeg
+  mixamorig:LeftFoot
+  mixamorig:LeftToeBase
+  mixamorig:LeftToeBase_end
+  mixamorig:RightUpLeg
+  mixamorig:RightLeg
+  mixamorig:RightFoot
+  mixamorig:RightToeBase
+  mixamorig:RightToeBase_end
+  mixamorig:Spine
+  mixamorig:Spine1
+  mixamorig:Spine2
+  mixamorig:LeftShoulder
+  mixamorig:LeftArm
+  mixamorig:LeftForeArm
+  mixamorig:LeftHand
+  mixamorig:LeftHandIndex1
+  mixamorig:LeftHandIndex2
+  mixamorig:LeftHandIndex3
+  mixamorig:LeftHandIndex4
+  mixamorig:LeftHandIndex4_end
+  mixamorig:LeftHandMiddle1
+  mixamorig:LeftHandMiddle2
+  mixamorig:LeftHandMiddle3
+  mixamorig:LeftHandMiddle4
+  mixamorig:LeftHandMiddle4_end
+  mixamorig:LeftHandPinky1
+  mixamorig:LeftHandPinky2
+  mixamorig:LeftHandPinky3
+  mixamorig:LeftHandPinky4
+  mixamorig:LeftHandPinky4_end
+  mixamorig:LeftHandRing1
+  mixamorig:LeftHandRing2
+  mixamorig:LeftHandRing3
+  mixamorig:LeftHandRing4
+  mixamorig:LeftHandRing4_end
+  mixamorig:LeftHandThumb1
+  mixamorig:LeftHandThumb2
+  mixamorig:LeftHandThumb3
+  mixamorig:LeftHandThumb4
+  mixamorig:LeftHandThumb4_end
+  mixamorig:Neck
+  mixamorig:Head
+  mixamorig:Head_end
+  mixamorig:RightShoulder
+  mixamorig:RightArm
+  mixamorig:RightForeArm
+  mixamorig:RightHand
+  mixamorig:RightHandIndex1
+  mixamorig:RightHandIndex2
+  mixamorig:RightHandIndex3
+  mixamorig:RightHandIndex4
+  mixamorig:RightHandIndex4_end
+  mixamorig:RightHandMiddle1
+  mixamorig:RightHandMiddle2
+  mixamorig:RightHandMiddle3
+  mixamorig:RightHandMiddle4
+  mixamorig:RightHandMiddle4_end
+  mixamorig:RightHandPinky1
+  mixamorig:RightHandPinky2
+  mixamorig:RightHandPinky3
+  mixamorig:RightHandPinky4
+  mixamorig:RightHandPinky4_end
+  mixamorig:RightHandRing1
+  mixamorig:RightHandRing2
+  mixamorig:RightHandRing3
+  mixamorig:RightHandRing4
+  mixamorig:RightHandRing4_end
+  mixamorig:RightHandThumb1
+  mixamorig:RightHandThumb2
+  mixamorig:RightHandThumb3
+  mixamorig:RightHandThumb4
+  mixamorig:RightHandThumb4_end
+  Character_Male
+  Armature.001
+  shirt_voleur
+  shirt_voleur.001
+RENDERER shirt_voleur mesh=shirt_voleur bones=61 scale=(1.00, 1.00, 1.00) bounds=Center: (-0.01, 0.66, -0.03), Extents: (0.70, 0.78, 0.27)
+RENDERER shirt_voleur.001 mesh=shirt_voleur.001 bones=0 scale=(1.00, 1.00, 1.00) bounds=Center: (0.69, 1.12, -0.01), Extents: (0.10, 0.07, 0.08)
+FBX Assets/ThirdParty/RunRich/Visual/Mesh/LowPoly\player.fbx
+  player
+  Armature
+  mixamorig:Hips
+  mixamorig:LeftUpLeg
+  mixamorig:LeftLeg
+  mixamorig:LeftFoot
+  mixamorig:LeftToeBase
+  mixamorig:LeftToeBase_end
+  mixamorig:RightUpLeg
+  mixamorig:RightLeg
+  mixamorig:RightFoot
+  mixamorig:RightToeBase
+  mixamorig:RightToeBase_end
+  mixamorig:Spine
+  mixamorig:Spine1
+  mixamorig:Spine2
+  mixamorig:LeftShoulder
+  mixamorig:LeftArm
+  mixamorig:LeftForeArm
+  mixamorig:LeftHand
+  mixamorig:LeftHandIndex1
+  mixamorig:LeftHandIndex2
+  mixamorig:LeftHandIndex3
+  mixamorig:LeftHandIndex4
+  mixamorig:LeftHandIndex4_end
+  mixamorig:LeftHandMiddle1
+  mixamorig:LeftHandMiddle2
+  mixamorig:LeftHandMiddle3
+  mixamorig:LeftHandMiddle4
+  mixamorig:LeftHandMiddle4_end
+  mixamorig:LeftHandPinky1
+  mixamorig:LeftHandPinky2
+  mixamorig:LeftHandPinky3
+  mixamorig:LeftHandPinky4
+  mixamorig:LeftHandPinky4_end
+  mixamorig:LeftHandRing1
+  mixamorig:LeftHandRing2
+  mixamorig:LeftHandRing3
+  mixamorig:LeftHandRing4
+  mixamorig:LeftHandRing4_end
+  mixamorig:LeftHandThumb1
+  mixamorig:LeftHandThumb2
+  mixamorig:LeftHandThumb3
+  mixamorig:LeftHandThumb4
+  mixamorig:LeftHandThumb4_end
+  mixamorig:Neck
+  mixamorig:Head
+  mixamorig:Head_end
+  mixamorig:RightShoulder
+  mixamorig:RightArm
+  mixamorig:RightForeArm
+  mixamorig:RightHand
+  mixamorig:RightHandIndex1
+  mixamorig:RightHandIndex2
+  mixamorig:RightHandIndex3
+  mixamorig:RightHandIndex4
+  mixamorig:RightHandIndex4_end
+  mixamorig:RightHandMiddle1
+  mixamorig:RightHandMiddle2
+  mixamorig:RightHandMiddle3
+  mixamorig:RightHandMiddle4
+  mixamorig:RightHandMiddle4_end
+  mixamorig:RightHandPinky1
+  mixamorig:RightHandPinky2
+  mixamorig:RightHandPinky3
+  mixamorig:RightHandPinky4
+  mixamorig:RightHandPinky4_end
+  mixamorig:RightHandRing1
+  mixamorig:RightHandRing2
+  mixamorig:RightHandRing3
+  mixamorig:RightHandRing4
+  mixamorig:RightHandRing4_end
+  mixamorig:RightHandThumb1
+  mixamorig:RightHandThumb2
+  mixamorig:RightHandThumb3
+  mixamorig:RightHandThumb4
+  mixamorig:RightHandThumb4_end
+  bling
+  bling_EndLevel
+  buisiness
+  casual
+  cocktail
+  cocktail_EndLevel
+  middle
+  poor
+RENDERER bling mesh=bling bones=61 scale=(1.00, 1.00, 1.00) bounds=Center: (0.00, 0.70, -0.01), Extents: (0.63, 0.79, 0.24)
+RENDERER bling_EndLevel mesh=bling_EndLevel bones=61 scale=(1.00, 1.00, 1.00) bounds=Center: (0.00, 0.70, -0.01), Extents: (0.63, 0.79, 0.24)
+RENDERER buisiness mesh=buisiness bones=61 scale=(1.00, 1.00, 1.00) bounds=Center: (0.00, 0.68, -0.03), Extents: (0.63, 0.77, 0.25)
+RENDERER casual mesh=casual bones=61 scale=(1.00, 1.00, 1.00) bounds=Center: (0.00, 0.66, 0.01), Extents: (0.63, 0.80, 0.23)
+RENDERER cocktail mesh=cocktail bones=61 scale=(1.00, 1.00, 1.00) bounds=Center: (0.00, 0.67, -0.05), Extents: (0.63, 0.84, 0.29)
+RENDERER cocktail_EndLevel mesh=cocktail_EndLevel bones=61 scale=(1.00, 1.00, 1.00) bounds=Center: (0.00, 0.67, -0.05), Extents: (0.63, 0.84, 0.29)
+RENDERER middle mesh=middle bones=61 scale=(1.00, 1.00, 1.00) bounds=Center: (0.00, 0.68, 0.00), Extents: (0.63, 0.77, 0.22)
+RENDERER poor mesh=poor bones=61 scale=(1.00, 1.00, 1.00) bounds=Center: (0.00, 0.67, 0.01), Extents: (0.63, 0.80, 0.23)

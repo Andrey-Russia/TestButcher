@@ -1,0 +1,1 @@
+Both levels: 4 finish gates, 1 choice group, 1 flag checkpoint. No missing scripts or renderer materials.
